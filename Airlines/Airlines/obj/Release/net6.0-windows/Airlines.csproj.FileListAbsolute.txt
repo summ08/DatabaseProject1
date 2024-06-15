@@ -1,0 +1,16 @@
+C:\Users\Sümeyye\source\repos\Airlines\Airlines\obj\Release\net6.0-windows\Airlines.csproj.AssemblyReference.cache
+C:\Users\Sümeyye\source\repos\Airlines\Airlines\obj\Release\net6.0-windows\Airlines.AnaSayfa.resources
+C:\Users\Sümeyye\source\repos\Airlines\Airlines\obj\Release\net6.0-windows\Airlines.Bilet.resources
+C:\Users\Sümeyye\source\repos\Airlines\Airlines\obj\Release\net6.0-windows\Airlines.FlightTbl.resources
+C:\Users\Sümeyye\source\repos\Airlines\Airlines\obj\Release\net6.0-windows\Airlines.Iptaller.resources
+C:\Users\Sümeyye\source\repos\Airlines\Airlines\obj\Release\net6.0-windows\Airlines.Login.resources
+C:\Users\Sümeyye\source\repos\Airlines\Airlines\obj\Release\net6.0-windows\Airlines.Properties.Resources.resources
+C:\Users\Sümeyye\source\repos\Airlines\Airlines\obj\Release\net6.0-windows\Airlines.Splash.resources
+C:\Users\Sümeyye\source\repos\Airlines\Airlines\obj\Release\net6.0-windows\Airlines.UcusGor.resources
+C:\Users\Sümeyye\source\repos\Airlines\Airlines\obj\Release\net6.0-windows\Airlines.YolcuEkle.resources
+C:\Users\Sümeyye\source\repos\Airlines\Airlines\obj\Release\net6.0-windows\Airlines.YolcuGoruntule.resources
+C:\Users\Sümeyye\source\repos\Airlines\Airlines\obj\Release\net6.0-windows\Airlines.csproj.GenerateResource.cache
+C:\Users\Sümeyye\source\repos\Airlines\Airlines\obj\Release\net6.0-windows\Airlines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sümeyye\source\repos\Airlines\Airlines\obj\Release\net6.0-windows\Airlines.AssemblyInfoInputs.cache
+C:\Users\Sümeyye\source\repos\Airlines\Airlines\obj\Release\net6.0-windows\Airlines.AssemblyInfo.cs
+C:\Users\Sümeyye\source\repos\Airlines\Airlines\obj\Release\net6.0-windows\Airlines.csproj.CoreCompileInputs.cache

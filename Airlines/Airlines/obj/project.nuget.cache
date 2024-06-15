@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nA2mbMM60ssf+o9XqsURzDcSthhzKtz9xezdmEKK5GSWOV6YfzS6P4zHxdgeAeGiLskEmyr9J5J0ZIxqGQnHBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sümeyye\\source\\repos\\Airlines\\Airlines\\Airlines.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sümeyye\\.nuget\\packages\\npgsql\\6.0.10\\npgsql.6.0.10.nupkg.sha512",
+    "C:\\Users\\Sümeyye\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

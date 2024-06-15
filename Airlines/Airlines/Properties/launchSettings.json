@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Airlines": {
+      "commandName": "Project"
+    },
+    "1 Profili": {
+      "commandName": "Executable"
+    }
+  }
+}
